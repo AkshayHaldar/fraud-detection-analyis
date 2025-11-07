@@ -1,0 +1,18 @@
+# Python virtual environments
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data and Models (often too large for Git)
+data/
+models/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
